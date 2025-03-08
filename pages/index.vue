@@ -2,5 +2,5 @@
   <p> Loading </p>
 </template>
 <script setup lang="ts">
-  await navigateTo("linktr.ee/greengroupevents", { external: true });
+  await navigateTo("https://linktr.ee/greengroupevents", { external: true });
 </script>
